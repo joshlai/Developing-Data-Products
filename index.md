@@ -47,8 +47,8 @@ For more information, please refer to the followings:
 
 - [Data Product Showcase](https://joshlai.shinyapps.io/shiny/)
 
-- Data Product Source Code 
+- [Data Product Source Code](https://github.com/joshlai/Developing-Data-Products/tree/master/shiny)
 
-- Presentation Slides
+- [Presentation Slides](http://joshlai.github.io/Developing-Data-Products)
 
-- Presentation Souce Code
+- [Presentation Souce Code](https://github.com/joshlai/Developing-Data-Products/tree/master/slides)
